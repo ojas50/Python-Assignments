@@ -25,11 +25,6 @@ Below is the log of completed assignments:
 * **Topic:** Finding the largest number among three user-input values.
 * **Concepts:** User input, variables, comparison operators, and conditional statements using `if`, `elif`, and `else`.
 
-### Assignment 4: Dictionary Operations
-
-* **Topic:** Food cuisines across the globe.
-* **Concepts:** Key-value mapping, nested data, and value updates.
-
 ## Academic Info
 
 * **University:** MIT-WPU
