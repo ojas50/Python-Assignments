@@ -20,7 +20,12 @@ Below is the log of completed assignments:
 * **Topic:** Creating an immutable course enrollment tracker.
 * **Concepts:** Tuple slicing, unpacking, and memory reassignment.
 
-### Assignment 3: Dictionary Operations
+### Assignment 3: Largest of Three Numbers
+
+* **Topic:** Finding the largest number among three user-input values.
+* **Concepts:** User input, variables, comparison operators, and conditional statements using `if`, `elif`, and `else`.
+
+### Assignment 4: Dictionary Operations
 
 * **Topic:** Food cuisines across the globe.
 * **Concepts:** Key-value mapping, nested data, and value updates.
